@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mat_500">#4CAF50</color>
+    <color name="mat_700">#8BC34A</color>
+    <color name="base_500">#FFF4E2</color>
+    <color name="earth_200">#B36B00</color>
+    <color name="earth_700">#5E3800</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
